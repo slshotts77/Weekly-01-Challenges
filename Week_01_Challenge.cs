@@ -92,7 +92,7 @@ namespace Week_01_Challenge
                     Console.WriteLine("It is a day to be good on");
                     break;
                 case "Okay":
-                    Console.WriteLine("Hopefully it will gget better from here");
+                    Console.WriteLine("Hopefully it will get better from here");
                     break;
                 case "Bad":
                     Console.WriteLine("There is always tomorrow");
